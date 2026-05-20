@@ -1,3 +1,6 @@
+## This template set is designed for A/P HA in Azure.  The following are created:
+
+## Temporary suggestion for folder structure of an Ansible playbook
 
 network-automation-project/
 │
